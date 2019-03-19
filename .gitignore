@@ -1,3 +1,2 @@
 env/
-install.sh/
-run.sh/
+*.sh
